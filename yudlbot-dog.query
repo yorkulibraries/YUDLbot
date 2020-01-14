@@ -1,0 +1,1 @@
+http://iota.library.yorku.ca:8080/solr/yudl/select?q=mods_relatedItem_titleInfo_title_s%3A"Toronto+Telegram+fonds%2C+F0433"+AND+dc.title%3Adog+AND+RELS_EXT_hasModel_uri_s%3A"info%3Afedora%2Fislandora%3Asp_large_image_cmodel"&fl=PID%2C+mods_abstract_s&rows=20000&wt=json&indent=true
